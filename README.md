@@ -88,5 +88,5 @@ Feel free to submit issues or pull requests if you find any bugs or have feature
 
 ![image](https://github.com/PanagiotisGew/DatasetMergerApp/assets/147500010/4918aeb9-a6dc-47ce-bb6b-9451b3df450a)
 
-## References
+## Citation
 Georgiadis, P.; Gkouvrikos, E.V.; Vrochidou, E.; Kalampokas, T.; Papakostas, G.A. Building Better Deep Learning Models Through Dataset Fusion: A Case Study in Skin Cancer Classification with Hyperdatasets. Diagnostics 2025, 15, 352. https://doi.org/10.3390/diagnostics15030352
